@@ -1,7 +1,5 @@
 # Dan Steger Python Flask To Do Web App
 # This Web App runs in a virtual environment
-
-
 from flask import Flask, render_template, request, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 
